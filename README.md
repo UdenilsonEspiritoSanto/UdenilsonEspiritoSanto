@@ -1,9 +1,9 @@
 ### Udenilson do Espirito Santo 
 Atualmente Técnico de Informática na Fênix Desenvolvimento
 
-- 👨🏻‍💻 **Licenciado em Computação IFBA** [IFBA PORTO SEGURO](https://portal.ifba.edu.br/portoseguro/portoseguro/)
+- 👨🏻‍💻 **Licenciado em Computação IFBA**  &nbsp;&nbsp; [IFBA PORTO SEGURO](https://portal.ifba.edu.br/portoseguro/portoseguro/)
 - 🧗🏼 Apaixonado pelo **Litoral Brasileiro**
-- 📸 Estudando Python Backend AI [DIO](https://web.dio.me/home)
+- 📸 Estudando Python Backend Developer AI  &nbsp;&nbsp; [DIO](https://web.dio.me/home)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
